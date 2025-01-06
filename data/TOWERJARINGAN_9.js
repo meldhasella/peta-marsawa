@@ -1,0 +1,1 @@
+var json_TOWERJARINGAN_9 = {"type":"FeatureCollection","name":"TOWERJARINGAN_9","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","Keterangan":"Tower"},"geometry":{"type":"Point","coordinates":[101.519355403576725,-0.384855712660355]}}]}

@@ -1,0 +1,1 @@
+var json_BendunganWKBBIDesaMarsawa_23 = {"type":"FeatureCollection","name":"BendunganWKBBIDesaMarsawa_23","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"Nama":"Bendungan WK, BBI Desa Marsawa"},"geometry":{"type":"Point","coordinates":[101.504272480732482,-0.375798100922185]}}]}

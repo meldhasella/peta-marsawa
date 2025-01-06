@@ -1,0 +1,1 @@
+var json_TKAISYAHBUSTANULATFAL_19 = {"type":"FeatureCollection","name":"TKAISYAHBUSTANULATFAL_19","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"name":"TK AISYAH BUSTANUL ATFAL"},"geometry":{"type":"Point","coordinates":[101.517384123587206,-0.386965469655074]}}]}

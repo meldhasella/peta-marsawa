@@ -1,0 +1,1 @@
+var json_MasjidBaitulMuttaqienMarsawa_15 = {"type":"FeatureCollection","name":"MasjidBaitulMuttaqienMarsawa_15","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"Nama":"Masjid Baitul Muttaqien Marsawa"},"geometry":{"type":"Point","coordinates":[101.514688057631844,-0.403487899247989]}}]}

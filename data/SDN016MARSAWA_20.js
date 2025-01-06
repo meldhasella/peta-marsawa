@@ -1,0 +1,1 @@
+var json_SDN016MARSAWA_20 = {"type":"FeatureCollection","name":"SDN016MARSAWA_20","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"Nama":"SDN 016 MARSAWA","Gambar":"SDN 016.jpg"},"geometry":{"type":"Point","coordinates":[101.516149973140386,-0.404014696202119]}}]}

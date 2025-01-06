@@ -1,0 +1,1 @@
+var json_KANTORBUMDesSEROJA_12 = {"type":"FeatureCollection","name":"KANTORBUMDesSEROJA_12","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","Nama":"KANTOR BUMDes SEROJA","Gambar":"bumdes.jpg"},"geometry":{"type":"Point","coordinates":[101.514816667025457,-0.40290363531983]}}]}

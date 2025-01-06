@@ -1,0 +1,1 @@
+var json_KandangTernakAyam_30 = {"type":"FeatureCollection","name":"KandangTernakAyam_30","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"Nama":"Kandang Ternak yam"},"geometry":{"type":"Point","coordinates":[101.512819120931084,-0.381487049741743]}}]}

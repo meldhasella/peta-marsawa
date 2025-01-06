@@ -1,0 +1,1 @@
+var json_KOPERASIUNITDESA_3 = {"type":"FeatureCollection","name":"KOPERASIUNITDESA_3","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"Nama":"KOPERASI UNIT DESA","Gambar":"kud.jpg"},"geometry":{"type":"Point","coordinates":[101.515309578456041,-0.400974507242922]}}]}
